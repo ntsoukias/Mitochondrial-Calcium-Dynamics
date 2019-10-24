@@ -1,2 +1,2 @@
-# Calcium-Dynamics-Model-GUI
+# Calcium-Dynamics-Model-With-GUI
 Includes model code + GUI used in the manuscript titled: "Modeling the role of endoplasmic reticulum-mitochondria microdomains in calcium dynamics".
